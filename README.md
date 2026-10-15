@@ -1,4 +1,4 @@
-# Awesome RPC Node Providers
+# RPC provider list
 
 A directory of blockchain RPC providers, organized by network.
 
@@ -112,6 +112,6 @@ See [contribution guidelines](.github/CONTRIBUTING.md).
 
 ## Sources
 
-Network groupings were adapted from the original repository document; they were not independently reverified during restructuring. See the [original comparison](docs/provider-comparison.md) for the supplied descriptions, figures and source links.
+Network groupings were adapted from the original repository document; they were not independently reverified during restructuring. See the original comparison for the supplied descriptions, figures and source links.
 
-Layout inspired by [awesome-list-rpc-nodes-providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers).
+Layout inspired by awesome-list-rpc-nodes-providers.
